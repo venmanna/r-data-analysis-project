@@ -1,0 +1,27 @@
+# R and RStudio session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# R package/build artifacts
+*.Rcheck/
+*.tar.gz
+
+# Rendered temporary files
+*_cache/
+*_files/
+.knit.md
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Credentials and local environment settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key

@@ -1,0 +1,52 @@
+state,region,first_50_per_100,first_100_per_100,first_150_per_100
+Vermont,Northeast,2021-03-30,2021-05-10,2021-10-17
+Massachusetts,Northeast,2021-03-30,2021-05-11,2021-10-29
+Connecticut,Northeast,2021-03-28,2021-05-12,2021-10-29
+Hawaii,West,2021-04-02,2021-05-15,2021-12-10
+Maine,Northeast,2021-03-29,2021-05-16,2021-11-06
+District of Columbia,South,2021-03-30,2021-05-17,2021-10-30
+Rhode Island,Northeast,2021-03-30,2021-05-17,2021-11-05
+New Jersey,Northeast,2021-04-02,2021-05-27,2021-11-30
+New Mexico,West,2021-03-21,2021-05-27,2021-12-03
+New Hampshire,Northeast,2021-04-02,2021-05-28,2021-11-18
+Maryland,South,2021-04-04,2021-05-29,2021-11-20
+New York,Northeast,2021-04-03,2021-05-30,2021-11-22
+Washington,West,2021-04-04,2021-05-31,2021-12-03
+Pennsylvania,Northeast,2021-04-04,2021-06-05,2021-12-13
+Virginia,South,2021-04-04,2021-06-07,2021-11-23
+California,West,2021-04-05,2021-06-08,2021-11-30
+Colorado,West,2021-04-05,2021-06-09,2021-12-02
+Oregon,West,2021-04-08,2021-06-10,2021-12-06
+Delaware,South,2021-04-04,2021-06-13,2021-12-09
+Minnesota,North Central,2021-04-03,2021-06-15,2021-12-06
+Illinois,North Central,2021-04-04,2021-06-25,2021-12-18
+Wisconsin,North Central,2021-04-02,2021-06-27,2021-12-17
+Florida,South,2021-04-08,2021-07-11,2021-12-13
+Nebraska,North Central,2021-04-03,2021-07-30,2022-01-09
+Iowa,North Central,2021-04-03,2021-08-05,2022-01-14
+Arizona,West,2021-04-04,2021-08-14,2022-01-18
+Nevada,West,2021-04-10,2021-08-17,2022-02-07
+Michigan,North Central,2021-04-08,2021-08-19,2022-02-17
+Texas,South,2021-04-11,2021-08-20,2022-02-10
+South Dakota,North Central,2021-03-26,2021-08-24,2022-02-02
+Kentucky,South,2021-04-04,2021-08-26,2022-07-07
+Utah,West,2021-04-10,2021-08-27,2022-02-04
+Alaska,West,2021-03-22,2021-09-02,2022-03-05
+Kansas,North Central,2021-04-07,2021-09-02,2022-02-13
+North Carolina,South,2021-04-09,2021-09-02,2022-02-01
+Ohio,North Central,2021-04-06,2021-09-05,2022-04-10
+Oklahoma,South,2021-04-03,2021-09-12,2022-05-11
+Missouri,North Central,2021-04-11,2021-09-18,2022-06-30
+Montana,West,2021-04-03,2021-09-22,2022-05-20
+South Carolina,South,2021-04-11,2021-09-24,2022-06-23
+Tennessee,South,2021-04-17,2021-09-29,2022-07-14
+Georgia,South,2021-04-18,2021-09-30,2022-10-06
+Indiana,North Central,2021-04-13,2021-09-30,2022-07-07
+Arkansas,South,2021-04-16,2021-10-01,2022-10-06
+North Dakota,North Central,2021-03-28,2021-10-09,2022-07-28
+Louisiana,South,2021-04-13,2021-10-12,NA
+Mississippi,South,2021-04-23,2021-10-30,NA
+Alabama,South,2021-04-25,2021-11-04,NA
+Wyoming,West,2021-04-12,2021-11-04,NA
+Idaho,West,2021-04-12,2021-11-12,2022-10-20
+West Virginia,South,2021-04-02,2021-12-03,2021-12-09
